@@ -1,4 +1,11 @@
 1)
-	a) true
+	a) true?
 	b) true
-	c) 
+	c) false
+2)
+	a) false
+	b) ??? True
+	c) False
+3) b)
+4) a)
+5) c)
